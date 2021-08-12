@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HospitalRunV1" duration-ms="21191" started-at="2021-08-12T12:32:52 IST" finished-at="2021-08-12T12:33:13 IST">
+    <groups>
+    </groups>
+    <test name="HealthcareApp Test" duration-ms="21191" started-at="2021-08-12T12:32:52 IST" finished-at="2021-08-12T12:33:13 IST">
+      <class name="com.HospitaRun.testCases.TC_AdmissionDetail_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.HospitaRun.testCases.TC_AdmissionDetail_003@7a1ebcd8]" name="setup" is-config="true" duration-ms="9813" started-at="2021-08-12T12:32:52 IST" finished-at="2021-08-12T12:33:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Admissions_Detail_Report()[pri:0, instance:com.HospitaRun.testCases.TC_AdmissionDetail_003@7a1ebcd8]" name="Admissions_Detail_Report" duration-ms="10567" started-at="2021-08-12T12:33:02 IST" finished-at="2021-08-12T12:33:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admissions_Detail_Report -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HospitaRun.testCases.TC_AdmissionDetail_003@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="652" started-at="2021-08-12T12:33:13 IST" finished-at="2021-08-12T12:33:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HospitaRun.testCases.TC_AdmissionDetail_003 -->
+    </test> <!-- HealthcareApp Test -->
+  </suite> <!-- HospitalRunV1 -->
+</testng-results>

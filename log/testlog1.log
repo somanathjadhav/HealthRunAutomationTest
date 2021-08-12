@@ -1,0 +1,420 @@
+2021-07-16 10:57:33,110 [main] INFO HospitalRun - URL is opened
+2021-07-16 10:57:36,948 [main] INFO HospitalRun - Entered username
+2021-07-16 10:57:37,096 [main] INFO HospitalRun - Entered password
+2021-07-16 10:57:37,232 [main] INFO HospitalRun - Sign In Test Passed
+2021-07-16 11:41:42,898 [main] INFO HospitalRun - URL is opened
+2021-07-16 11:41:46,915 [main] INFO HospitalRun - Entered username
+2021-07-16 11:41:46,997 [main] INFO HospitalRun - Entered password
+2021-07-16 11:41:47,059 [main] INFO HospitalRun - Sign In Test Passed
+2021-07-16 12:17:07,336 [main] INFO HospitalRun - URL is opened
+2021-07-16 12:17:12,460 [main] INFO HospitalRun - Entered username
+2021-07-16 12:17:12,606 [main] INFO HospitalRun - Entered password
+2021-07-16 12:17:12,731 [main] INFO HospitalRun - Log In Test Passed
+2021-07-16 14:15:45,203 [main] INFO HospitalRun - URL is opened
+2021-07-16 14:15:49,767 [main] INFO HospitalRun - Entered username
+2021-07-16 14:15:49,826 [main] INFO HospitalRun - Entered password
+2021-07-16 14:15:50,093 [main] INFO HospitalRun - Log In Test Passed
+2021-07-16 20:02:04,913 [main] INFO HospitalRun - URL is opened
+2021-07-16 20:02:09,073 [main] INFO HospitalRun - Entered username
+2021-07-16 20:02:09,202 [main] INFO HospitalRun - Entered password
+2021-07-16 20:02:09,291 [main] INFO HospitalRun - Log In Test Passed
+2021-07-18 12:51:51,806 [main] INFO HospitalRun - URL is opened
+2021-07-18 12:51:57,011 [main] INFO HospitalRun - Entered username
+2021-07-18 12:51:57,139 [main] INFO HospitalRun - Entered password
+2021-07-18 12:51:57,249 [main] INFO HospitalRun - Log In Test Passed
+2021-07-18 12:52:50,960 [main] INFO HospitalRun - URL is opened
+2021-07-18 12:52:56,867 [main] INFO HospitalRun - Entered username
+2021-07-18 12:52:56,991 [main] INFO HospitalRun - Entered password
+2021-07-18 12:52:57,089 [main] INFO HospitalRun - Log In Test Passed
+2021-07-18 12:53:49,018 [main] INFO HospitalRun - URL is opened
+2021-07-18 12:53:55,441 [main] INFO HospitalRun - Entered username
+2021-07-18 12:53:55,568 [main] INFO HospitalRun - Entered password
+2021-07-18 12:53:55,675 [main] INFO HospitalRun - Log In Test Passed
+2021-07-18 13:14:39,435 [main] INFO HospitalRun - URL is opened
+2021-07-18 13:14:45,905 [main] INFO HospitalRun - Entered username
+2021-07-18 13:14:46,046 [main] INFO HospitalRun - Entered password
+2021-07-18 13:14:46,164 [main] INFO HospitalRun - Log In Test Passed
+2021-07-18 13:15:17,362 [main] INFO HospitalRun - URL is opened
+2021-07-18 13:15:22,985 [main] INFO HospitalRun - Entered username
+2021-07-18 13:15:23,101 [main] INFO HospitalRun - Entered password
+2021-07-20 11:55:38,027 [main] INFO HospitalRun - URL is opened
+2021-07-20 11:55:41,894 [main] INFO HospitalRun - Entered username
+2021-07-20 11:55:42,016 [main] INFO HospitalRun - Entered password
+2021-07-20 11:55:42,136 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 11:57:22,815 [main] INFO HospitalRun - URL is opened
+2021-07-20 11:57:27,219 [main] INFO HospitalRun - Entered username
+2021-07-20 11:57:27,322 [main] INFO HospitalRun - Entered password
+2021-07-20 11:57:27,421 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:07:49,345 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:07:53,699 [main] INFO HospitalRun - Entered username
+2021-07-20 12:07:53,821 [main] INFO HospitalRun - Entered password
+2021-07-20 12:07:53,944 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:08:40,945 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:08:44,224 [main] INFO HospitalRun - Entered username
+2021-07-20 12:08:44,342 [main] INFO HospitalRun - Entered password
+2021-07-20 12:08:44,450 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:15:21,058 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:15:25,210 [main] INFO HospitalRun - Entered username
+2021-07-20 12:15:25,321 [main] INFO HospitalRun - Entered password
+2021-07-20 12:15:25,433 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:15:32,388 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-20 12:15:32,447 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-20 12:18:40,212 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:18:45,204 [main] INFO HospitalRun - Entered username
+2021-07-20 12:18:45,312 [main] INFO HospitalRun - Entered password
+2021-07-20 12:18:45,412 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:18:52,328 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-20 12:18:52,419 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-20 12:23:11,050 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:23:14,658 [main] INFO HospitalRun - Entered username
+2021-07-20 12:23:14,774 [main] INFO HospitalRun - Entered password
+2021-07-20 12:23:14,879 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:23:24,101 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-20 12:23:24,212 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-20 12:25:09,416 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:25:12,964 [main] INFO HospitalRun - Entered username
+2021-07-20 12:25:13,081 [main] INFO HospitalRun - Entered password
+2021-07-20 12:25:13,197 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:25:20,208 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-20 12:25:20,324 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-20 12:27:53,528 [main] INFO HospitalRun - URL is opened
+2021-07-20 12:27:58,006 [main] INFO HospitalRun - Entered username
+2021-07-20 12:27:58,131 [main] INFO HospitalRun - Entered password
+2021-07-20 12:27:58,243 [main] INFO HospitalRun - Log In Test Passed
+2021-07-20 12:28:05,561 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-20 12:28:05,647 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-21 15:10:42,809 [main] INFO HospitalRun - URL is opened
+2021-07-21 15:10:47,063 [main] INFO HospitalRun - Entered username
+2021-07-21 15:10:47,170 [main] INFO HospitalRun - Entered password
+2021-07-21 15:10:47,277 [main] INFO HospitalRun - Log In Test Passed
+2021-07-21 15:10:55,348 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-21 15:10:55,438 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-21 15:15:50,589 [main] INFO HospitalRun - URL is opened
+2021-07-21 15:15:54,348 [main] INFO HospitalRun - Entered username
+2021-07-21 15:15:54,460 [main] INFO HospitalRun - Entered password
+2021-07-21 15:15:54,569 [main] INFO HospitalRun - Log In Test Passed
+2021-07-21 15:16:03,915 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-21 15:16:04,010 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-21 15:21:38,235 [main] INFO HospitalRun - URL is opened
+2021-07-21 15:21:43,794 [main] INFO HospitalRun - Entered username
+2021-07-21 15:21:43,903 [main] INFO HospitalRun - Entered password
+2021-07-21 15:21:44,008 [main] INFO HospitalRun - Log In Test Passed
+2021-07-21 15:21:52,996 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-21 15:21:53,097 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-21 15:23:10,792 [main] INFO HospitalRun - URL is opened
+2021-07-21 15:23:14,459 [main] INFO HospitalRun - Entered username
+2021-07-21 15:23:14,574 [main] INFO HospitalRun - Entered password
+2021-07-21 15:23:14,689 [main] INFO HospitalRun - Log In Test Passed
+2021-07-21 15:23:22,960 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-21 15:23:23,057 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-21 15:24:54,933 [main] INFO HospitalRun - URL is opened
+2021-07-21 15:24:59,312 [main] INFO HospitalRun - Entered username
+2021-07-21 15:24:59,434 [main] INFO HospitalRun - Entered password
+2021-07-21 15:24:59,540 [main] INFO HospitalRun - Log In Test Passed
+2021-07-21 15:25:07,487 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-21 15:25:07,583 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-21 15:25:07,583 [main] INFO HospitalRun - First Name entered
+2021-07-23 13:54:48,332 [main] INFO HospitalRun - URL is opened
+2021-07-23 13:54:52,275 [main] INFO HospitalRun - Entered username
+2021-07-23 13:54:52,398 [main] INFO HospitalRun - Entered password
+2021-07-23 13:54:52,514 [main] INFO HospitalRun - Log In Test Passed
+2021-07-23 13:54:59,633 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-23 13:54:59,747 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-27 09:02:17,427 [main] INFO HospitalRun - URL is opened
+2021-07-27 09:02:20,825 [main] INFO HospitalRun - Entered username
+2021-07-27 09:02:20,947 [main] INFO HospitalRun - Entered password
+2021-07-27 09:02:21,039 [main] INFO HospitalRun - Log In Test Passed
+2021-07-27 09:02:28,142 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-27 09:02:28,230 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-27 09:02:29,343 [main] INFO HospitalRun - First Name entered
+2021-07-27 09:08:30,481 [main] INFO HospitalRun - URL is opened
+2021-07-27 09:08:33,832 [main] INFO HospitalRun - Entered username
+2021-07-27 09:08:33,950 [main] INFO HospitalRun - Entered password
+2021-07-27 09:08:34,054 [main] INFO HospitalRun - Log In Test Passed
+2021-07-27 09:08:40,990 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-27 09:08:41,099 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-27 09:08:42,208 [main] INFO HospitalRun - First Name entered
+2021-07-27 09:11:37,159 [main] INFO HospitalRun - URL is opened
+2021-07-27 09:11:40,472 [main] INFO HospitalRun - Entered username
+2021-07-27 09:11:40,596 [main] INFO HospitalRun - Entered password
+2021-07-27 09:11:40,690 [main] INFO HospitalRun - Log In Test Passed
+2021-07-27 09:11:47,789 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-27 09:11:47,893 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-27 09:11:49,511 [main] INFO HospitalRun - First Name entered
+2021-07-27 09:11:49,651 [main] INFO HospitalRun - Middle Name entered
+2021-07-30 15:04:53,862 [main] INFO HospitalRun - URL is opened
+2021-07-30 15:04:58,361 [main] INFO HospitalRun - Entered username
+2021-07-30 15:04:58,472 [main] INFO HospitalRun - Entered password
+2021-07-30 15:04:58,572 [main] INFO HospitalRun - Log In Test Passed
+2021-07-30 15:05:08,609 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-30 15:05:08,713 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-30 15:05:10,185 [main] INFO HospitalRun - First Name entered
+2021-07-30 15:05:10,313 [main] INFO HospitalRun - Middle Name entered
+2021-07-30 15:06:35,558 [main] INFO HospitalRun - URL is opened
+2021-07-30 15:06:39,763 [main] INFO HospitalRun - Entered username
+2021-07-30 15:06:39,882 [main] INFO HospitalRun - Entered password
+2021-07-30 15:06:39,981 [main] INFO HospitalRun - Log In Test Passed
+2021-07-30 15:06:47,561 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-30 15:06:47,650 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-30 15:06:49,170 [main] INFO HospitalRun - First Name entered
+2021-07-30 15:06:49,284 [main] INFO HospitalRun - Middle Name entered
+2021-07-30 15:10:09,081 [main] INFO HospitalRun - URL is opened
+2021-07-30 15:10:13,472 [main] INFO HospitalRun - Entered username
+2021-07-30 15:10:13,596 [main] INFO HospitalRun - Entered password
+2021-07-30 15:10:13,692 [main] INFO HospitalRun - Log In Test Passed
+2021-07-30 15:10:21,863 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-30 15:10:21,967 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-30 15:10:23,561 [main] INFO HospitalRun - First Name entered
+2021-07-30 15:10:23,669 [main] INFO HospitalRun - Middle Name entered
+2021-07-30 15:11:09,004 [main] INFO HospitalRun - URL is opened
+2021-07-30 15:11:12,206 [main] INFO HospitalRun - Entered username
+2021-07-30 15:11:12,305 [main] INFO HospitalRun - Entered password
+2021-07-30 15:11:12,408 [main] INFO HospitalRun - Log In Test Passed
+2021-07-30 15:11:19,329 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-30 15:11:19,439 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-30 15:11:21,652 [main] INFO HospitalRun - First Name entered
+2021-07-30 15:11:21,781 [main] INFO HospitalRun - Middle Name entered
+2021-07-30 15:11:23,924 [main] INFO HospitalRun - Last Name entered
+2021-07-30 15:15:38,475 [main] INFO HospitalRun - URL is opened
+2021-07-30 15:15:43,151 [main] INFO HospitalRun - Entered username
+2021-07-30 15:15:43,262 [main] INFO HospitalRun - Entered password
+2021-07-30 15:15:43,375 [main] INFO HospitalRun - Log In Test Passed
+2021-07-30 15:15:51,877 [main] INFO HospitalRun - clicked on Patients Link
+2021-07-30 15:15:51,973 [main] INFO HospitalRun - clicked on New Patient button
+2021-07-30 15:15:53,241 [main] INFO HospitalRun - First Name entered
+2021-07-30 15:15:53,380 [main] INFO HospitalRun - Middle Name entered
+2021-07-30 15:15:55,534 [main] INFO HospitalRun - Last Name entered
+2021-08-11 16:06:49,710 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:06:52,452 [main] INFO HospitalRun - Entered username
+2021-08-11 16:06:52,567 [main] INFO HospitalRun - Entered password
+2021-08-11 16:06:52,670 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:12:34,056 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:12:37,079 [main] INFO HospitalRun - Entered username
+2021-08-11 16:12:37,195 [main] INFO HospitalRun - Entered password
+2021-08-11 16:12:37,281 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:12:46,224 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 16:20:50,004 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:20:52,740 [main] INFO HospitalRun - Entered username
+2021-08-11 16:20:52,847 [main] INFO HospitalRun - Entered password
+2021-08-11 16:20:52,922 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:21:03,914 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 16:22:02,459 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:22:05,541 [main] INFO HospitalRun - Entered username
+2021-08-11 16:22:05,645 [main] INFO HospitalRun - Entered password
+2021-08-11 16:22:05,708 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:22:15,244 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 16:25:21,417 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:25:24,425 [main] INFO HospitalRun - Entered username
+2021-08-11 16:25:24,481 [main] INFO HospitalRun - Entered password
+2021-08-11 16:25:24,765 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:25:34,263 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 16:30:24,729 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:30:27,709 [main] INFO HospitalRun - Entered username
+2021-08-11 16:30:27,791 [main] INFO HospitalRun - Entered password
+2021-08-11 16:30:27,863 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:30:36,330 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 16:35:25,362 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:35:28,225 [main] INFO HospitalRun - Entered username
+2021-08-11 16:35:28,326 [main] INFO HospitalRun - Entered password
+2021-08-11 16:35:28,423 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:35:37,320 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 16:46:56,816 [main] INFO HospitalRun - URL is Opened
+2021-08-11 16:46:59,891 [main] INFO HospitalRun - Entered username
+2021-08-11 16:47:00,001 [main] INFO HospitalRun - Entered password
+2021-08-11 16:47:00,107 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 16:47:09,572 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 17:13:40,700 [main] INFO HospitalRun - URL is Opened
+2021-08-11 17:13:43,759 [main] INFO HospitalRun - Entered username
+2021-08-11 17:13:43,861 [main] INFO HospitalRun - Entered password
+2021-08-11 17:13:43,970 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 17:13:52,674 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 17:13:56,386 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 17:13:56,592 [main] INFO HospitalRun - selected Report Type
+2021-08-11 17:13:56,764 [main] INFO HospitalRun - entered start date
+2021-08-11 17:13:56,922 [main] INFO HospitalRun - entered end date
+2021-08-11 17:13:57,036 [main] INFO HospitalRun - clicked on generate report button
+2021-08-11 17:14:34,936 [main] INFO HospitalRun - URL is Opened
+2021-08-11 17:14:38,052 [main] INFO HospitalRun - Entered username
+2021-08-11 17:14:38,157 [main] INFO HospitalRun - Entered password
+2021-08-11 17:14:38,252 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 17:14:47,463 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 17:16:08,558 [main] INFO HospitalRun - URL is Opened
+2021-08-11 17:16:11,562 [main] INFO HospitalRun - Entered username
+2021-08-11 17:16:11,672 [main] INFO HospitalRun - Entered password
+2021-08-11 17:16:11,774 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 17:16:21,396 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 17:16:30,416 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 17:16:35,691 [main] INFO HospitalRun - selected Report Type
+2021-08-11 17:16:35,859 [main] INFO HospitalRun - entered start date
+2021-08-11 17:16:35,967 [main] INFO HospitalRun - entered end date
+2021-08-11 17:16:36,039 [main] INFO HospitalRun - clicked on generate report button
+2021-08-11 17:57:40,734 [main] INFO HospitalRun - URL is Opened
+2021-08-11 17:57:43,636 [main] INFO HospitalRun - Entered username
+2021-08-11 17:57:43,745 [main] INFO HospitalRun - Entered password
+2021-08-11 17:57:43,846 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 17:57:52,489 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 17:58:31,111 [main] INFO HospitalRun - URL is Opened
+2021-08-11 17:58:34,103 [main] INFO HospitalRun - Entered username
+2021-08-11 17:58:34,221 [main] INFO HospitalRun - Entered password
+2021-08-11 17:58:34,312 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 17:58:40,584 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 17:58:47,965 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 17:58:48,200 [main] INFO HospitalRun - selected Report Type
+2021-08-11 17:58:48,378 [main] INFO HospitalRun - entered start date
+2021-08-11 17:58:48,527 [main] INFO HospitalRun - entered end date
+2021-08-11 17:58:48,664 [main] INFO HospitalRun - clicked on generate report button
+2021-08-11 18:11:38,429 [main] INFO HospitalRun - URL is Opened
+2021-08-11 18:11:41,395 [main] INFO HospitalRun - Entered username
+2021-08-11 18:11:41,483 [main] INFO HospitalRun - Entered password
+2021-08-11 18:11:41,552 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 18:11:42,743 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 18:11:42,814 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 18:11:46,991 [main] INFO HospitalRun - selected Report Type
+2021-08-11 18:11:47,123 [main] INFO HospitalRun - entered start date
+2021-08-11 18:11:47,271 [main] INFO HospitalRun - entered end date
+2021-08-11 18:11:47,393 [main] INFO HospitalRun - clicked on generate report button
+2021-08-11 18:13:09,130 [main] INFO HospitalRun - URL is Opened
+2021-08-11 18:13:11,993 [main] INFO HospitalRun - Entered username
+2021-08-11 18:13:12,080 [main] INFO HospitalRun - Entered password
+2021-08-11 18:13:12,138 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 18:13:13,310 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 18:13:13,381 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 18:13:16,578 [main] INFO HospitalRun - selected Report Type
+2021-08-11 18:13:16,789 [main] INFO HospitalRun - entered start date
+2021-08-11 18:13:16,914 [main] INFO HospitalRun - entered end date
+2021-08-11 18:13:17,031 [main] INFO HospitalRun - clicked on generate report button
+2021-08-11 18:16:14,654 [main] INFO HospitalRun - URL is opened
+2021-08-11 18:16:17,695 [main] INFO HospitalRun - Entered username
+2021-08-11 18:16:17,807 [main] INFO HospitalRun - Entered password
+2021-08-11 18:16:17,908 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 18:16:33,269 [main] INFO HospitalRun - URL is opened
+2021-08-11 18:16:36,219 [main] INFO HospitalRun - Entered username
+2021-08-11 18:16:36,307 [main] INFO HospitalRun - Entered password
+2021-08-11 18:16:36,376 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 18:16:37,535 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 18:16:42,664 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-11 18:16:43,703 [main] INFO HospitalRun - First Name entered
+2021-08-11 18:16:43,821 [main] INFO HospitalRun - Middle Name entered
+2021-08-11 18:16:45,962 [main] INFO HospitalRun - Last Name entered
+2021-08-11 18:16:46,059 [main] INFO HospitalRun - cliecked on Add button
+2021-08-11 18:16:59,386 [main] INFO HospitalRun - URL is Opened
+2021-08-11 18:17:02,340 [main] INFO HospitalRun - Entered username
+2021-08-11 18:17:02,437 [main] INFO HospitalRun - Entered password
+2021-08-11 18:17:02,507 [main] INFO HospitalRun - Log In Test Passed
+2021-08-11 18:17:03,701 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-11 18:17:03,771 [main] INFO HospitalRun - clicked on Reports link
+2021-08-11 18:17:08,090 [main] INFO HospitalRun - selected Report Type
+2021-08-11 18:17:08,230 [main] INFO HospitalRun - entered start date
+2021-08-11 18:17:08,350 [main] INFO HospitalRun - entered end date
+2021-08-11 18:17:08,435 [main] INFO HospitalRun - clicked on generate report button
+2021-08-12 11:03:35,269 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:03:39,116 [main] INFO HospitalRun - Entered username
+2021-08-12 11:03:39,220 [main] INFO HospitalRun - Entered password
+2021-08-12 11:03:39,320 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:03:41,010 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:03:51,079 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:03:53,884 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:03:54,016 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:03:56,148 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:03:56,252 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:06:21,633 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:06:25,575 [main] INFO HospitalRun - Entered username
+2021-08-12 11:06:25,684 [main] INFO HospitalRun - Entered password
+2021-08-12 11:06:25,781 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:06:27,565 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:06:35,114 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:06:36,605 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:06:36,724 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:06:38,862 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:06:38,967 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:08:07,667 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:08:11,859 [main] INFO HospitalRun - Entered username
+2021-08-12 11:08:11,968 [main] INFO HospitalRun - Entered password
+2021-08-12 11:08:12,074 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:08:13,600 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:08:19,797 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:08:20,789 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:08:20,912 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:08:23,052 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:08:23,149 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:09:24,403 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:09:28,078 [main] INFO HospitalRun - Entered username
+2021-08-12 11:09:28,183 [main] INFO HospitalRun - Entered password
+2021-08-12 11:09:28,285 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:09:29,832 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:09:36,552 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:09:37,835 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:09:37,956 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:09:40,096 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:09:40,207 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:10:43,047 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:10:47,423 [main] INFO HospitalRun - Entered username
+2021-08-12 11:10:47,542 [main] INFO HospitalRun - Entered password
+2021-08-12 11:10:47,640 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:10:50,565 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:10:58,303 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:10:59,726 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:10:59,881 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:11:02,015 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:11:02,115 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:12:10,806 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:12:15,299 [main] INFO HospitalRun - Entered username
+2021-08-12 11:12:15,404 [main] INFO HospitalRun - Entered password
+2021-08-12 11:12:15,504 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:12:17,217 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:12:25,595 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:12:27,250 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:12:27,384 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:12:29,523 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:12:29,637 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:13:13,216 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:13:17,346 [main] INFO HospitalRun - Entered username
+2021-08-12 11:13:17,457 [main] INFO HospitalRun - Entered password
+2021-08-12 11:13:17,555 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:13:18,986 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:13:27,150 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:13:28,286 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:13:28,424 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:13:30,572 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:13:30,679 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:26:48,695 [main] INFO HospitalRun - URL is opened
+2021-08-12 11:26:52,704 [main] INFO HospitalRun - Entered username
+2021-08-12 11:26:52,807 [main] INFO HospitalRun - Entered password
+2021-08-12 11:26:52,891 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:26:54,721 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:27:04,289 [main] INFO HospitalRun - clicked on New Patient button
+2021-08-12 11:27:05,157 [main] INFO HospitalRun - First Name entered
+2021-08-12 11:27:05,286 [main] INFO HospitalRun - Middle Name entered
+2021-08-12 11:27:07,444 [main] INFO HospitalRun - Last Name entered
+2021-08-12 11:27:07,540 [main] INFO HospitalRun - cliecked on Add button
+2021-08-12 11:27:11,148 [main] INFO HospitalRun - New Patient Added Successfully
+2021-08-12 11:28:21,736 [main] INFO HospitalRun - URL is Opened
+2021-08-12 11:28:25,889 [main] INFO HospitalRun - Entered username
+2021-08-12 11:28:26,000 [main] INFO HospitalRun - Entered password
+2021-08-12 11:28:26,094 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:28:27,760 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:28:27,865 [main] INFO HospitalRun - clicked on Reports link
+2021-08-12 11:28:31,856 [main] INFO HospitalRun - selected Report Type
+2021-08-12 11:28:32,025 [main] INFO HospitalRun - entered start date
+2021-08-12 11:28:32,165 [main] INFO HospitalRun - entered end date
+2021-08-12 11:28:32,280 [main] INFO HospitalRun - clicked on generate report button
+2021-08-12 11:47:49,359 [main] INFO HospitalRun - URL is Opened
+2021-08-12 11:47:53,873 [main] INFO HospitalRun - Entered username
+2021-08-12 11:47:53,987 [main] INFO HospitalRun - Entered password
+2021-08-12 11:47:54,078 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 11:47:55,919 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 11:47:56,051 [main] INFO HospitalRun - clicked on Reports link
+2021-08-12 11:47:59,933 [main] INFO HospitalRun - selected Report Type
+2021-08-12 11:48:00,112 [main] INFO HospitalRun - entered start date
+2021-08-12 11:48:00,258 [main] INFO HospitalRun - entered end date
+2021-08-12 11:48:00,428 [main] INFO HospitalRun - clicked on generate report button
+2021-08-12 12:33:02,746 [main] INFO HospitalRun - URL is Opened
+2021-08-12 12:33:06,448 [main] INFO HospitalRun - Entered username
+2021-08-12 12:33:06,524 [main] INFO HospitalRun - Entered password
+2021-08-12 12:33:06,595 [main] INFO HospitalRun - Log In Test Passed
+2021-08-12 12:33:08,349 [main] INFO HospitalRun - clicked on Patients Link
+2021-08-12 12:33:08,410 [main] INFO HospitalRun - clicked on Reports link
+2021-08-12 12:33:12,272 [main] INFO HospitalRun - selected Report Type
+2021-08-12 12:33:12,387 [main] INFO HospitalRun - entered start date
+2021-08-12 12:33:12,507 [main] INFO HospitalRun - entered end date
+2021-08-12 12:33:12,579 [main] INFO HospitalRun - clicked on generate report button
