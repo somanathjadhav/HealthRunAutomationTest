@@ -7,8 +7,8 @@
 	<test name="HealthcareApp Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<!--   <class name="com.HospitaRun.testCases.TC_LoginTest_001" /> -->
-			<!--<class name="com.HospitaRun.testCases.TC_NewPatients_002" /> -->
+			<class name="com.HospitaRun.testCases.TC_LoginTest_001" /> 
+			<class name="com.HospitaRun.testCases.TC_NewPatients_002" /> 
 			<class name="com.HospitaRun.testCases.TC_AdmissionDetail_003" />
 
 
